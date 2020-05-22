@@ -1,2 +1,2 @@
 # bomb
-gmail bomber
+You can change message in code
